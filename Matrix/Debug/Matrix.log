@@ -1,3 +1,1 @@
-﻿  main.cpp
-C:\Users\degin\Desktop\Matrix\Matrix\main.cpp(43,10): warning C4244:  'argument': conversion from 'double' to 'DWORD', possible loss of data
-  Matrix.vcxproj -> C:\Users\degin\Desktop\Matrix\Debug\Matrix.exe
+﻿  Matrix.vcxproj -> C:\Users\degin\Documents\Alkotások\Github\Matrix\Debug\Matrix.exe
